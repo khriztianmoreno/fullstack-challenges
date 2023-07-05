@@ -1,6 +1,6 @@
 # Challenges Top
 
-Este repositorio contiene una lista de retos de programación que se han ido creando a lo largo del proceso de Make It Real. La idea es que los mentores puedan encontrar aquí una lista de retos que les puedan servir para realizar en sus clases especialmente en el proceso de onboarding.
+Este repositorio contiene una lista de retos de programación que se han ido creando a lo largo del proceso. La idea es que los estudiante puedan encontrar aquí una lista de retos que les puedan servir para realizar en sus procesos de aprendizaje.
 
 ## Retos
 
